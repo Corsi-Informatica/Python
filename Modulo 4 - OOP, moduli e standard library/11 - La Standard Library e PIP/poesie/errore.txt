@@ -1,0 +1,6 @@
+L'errore
+
+Manca una parentesi sola
+e tutto il programma si ferma:
+la leggo, la trovo, la chiudo,
+e il terminale tace.
